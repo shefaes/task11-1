@@ -1,0 +1,16 @@
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\bin\Debug\net5.0\DocumentProgram.exe
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\bin\Debug\net5.0\DocumentProgram.deps.json
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\bin\Debug\net5.0\DocumentProgram.runtimeconfig.json
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\bin\Debug\net5.0\DocumentProgram.runtimeconfig.dev.json
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\bin\Debug\net5.0\DocumentProgram.dll
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\bin\Debug\net5.0\ref\DocumentProgram.dll
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\bin\Debug\net5.0\DocumentProgram.pdb
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\DocumentProgram.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\DocumentProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\DocumentProgram.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\DocumentProgram.AssemblyInfo.cs
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\DocumentProgram.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\DocumentProgram.dll
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\ref\DocumentProgram.dll
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\DocumentProgram.pdb
+C:\Users\HP\source\repos\DocumentProgram\DocumentProgram\obj\Debug\net5.0\DocumentProgram.genruntimeconfig.cache
